@@ -1,3 +1,3 @@
 # HSM-project
 Heavy smoker research project
-This is the clasification.qza, metadata, session_info, taxonomy, and tree files
+there are metadata, R session information, and the compositional analysis output
